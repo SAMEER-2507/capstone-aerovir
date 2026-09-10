@@ -1,0 +1,4 @@
+Drop this pollutant's artifacts here.
+
+If linear: benzene_linear.pkl + feature_scaler.pkl (+ target_scaler.pkl optional)
+If gru/lstm: benzene_gru.keras or benzene_lstm.keras + feature_scaler.pkl (+ target_scaler.pkl optional)

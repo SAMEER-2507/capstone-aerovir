@@ -1,0 +1,4 @@
+Drop this pollutant's artifacts here.
+
+If linear: co_linear.pkl + feature_scaler.pkl (+ target_scaler.pkl optional)
+If gru/lstm: co_gru.keras or co_lstm.keras + feature_scaler.pkl (+ target_scaler.pkl optional)
