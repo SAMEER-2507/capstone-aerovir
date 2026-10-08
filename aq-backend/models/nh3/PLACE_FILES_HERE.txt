@@ -1,4 +1,0 @@
-Drop this pollutant's artifacts here.
-
-If linear: nh3_linear.pkl + feature_scaler.pkl (+ target_scaler.pkl optional)
-If gru/lstm: nh3_gru.keras or nh3_lstm.keras + feature_scaler.pkl (+ target_scaler.pkl optional)

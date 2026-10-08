@@ -1,0 +1,4 @@
+Linear Regression — drop here:
+  so2_linreg.pkl
+  feature_scaler.pkl
+  target_scaler.pkl (optional)

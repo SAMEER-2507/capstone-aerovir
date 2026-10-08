@@ -1,4 +1,0 @@
-Drop this pollutant's artifacts here.
-
-If linear: pm25_linear.pkl + feature_scaler.pkl (+ target_scaler.pkl optional)
-If gru/lstm: pm25_gru.keras or pm25_lstm.keras + feature_scaler.pkl (+ target_scaler.pkl optional)
